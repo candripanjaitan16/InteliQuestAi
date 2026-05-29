@@ -1,0 +1,2220 @@
+{
+  "intents": [
+    {
+      "tag": "salam",
+      "pola": [
+        "halo",
+        "hai",
+        "pagi",
+        "siang",
+        "malam",
+        "oi",
+        "permisi",
+        "helo",
+        "p",
+        "selamat pagi",
+        "selamat siang",
+        "selamat sore",
+        "selamat malam",
+        "halo ai",
+        "halo inteliquestai",
+        "hi",
+        "hellow",
+        "hey",
+        "yoo",
+        "anyong",
+        "hola",
+        "misi",
+        "punten",
+        "bisa ngobrol",
+        "hallo",
+        "hei",
+        "haloo",
+        "halooo",
+        "woi",
+        "assalamualaikum",
+        "waalaikumsalam",
+        "met pagi",
+        "met siang",
+        "met sore",
+        "met malam",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "good night",
+        "morning",
+        "evening",
+        "yo",
+        "sup",
+        "waddup",
+        "whatsup",
+        "helloo",
+        "heloo",
+        "haiii",
+        "hayyy",
+        "heyy",
+        "lagi bisa chat",
+        "boleh ganggu"
+      ],
+      "jawaban": [
+        "Halo! Ada yang bisa InteliQuestAi bantu hari ini?",
+        "Selamat datang di layanan InteliQuestAi. Apa yang ingin kamu tanyakan?",
+        "Hai! Senang bisa menyapamu. Ada hal yang bisa saya bantu?",
+        "Halo juga! Mari kita mengobrol. Ada yang ingin kamu ketahui?",
+        "Selamat datang. Ada yang bisa saya bantu hari ini?",
+        "Hey hey! Saya InteliQuestAi, siap membantu kamu. Mau tanya apa nih?",
+        "Halo! Kamu datang di waktu yang tepat. InteliQuestAi siap menemanimu. 😊"
+      ]
+    },
+    {
+      "tag": "identitas",
+      "pola": [
+        "siapa kamu",
+        "nama kamu siapa",
+        "apa itu inteliquestai",
+        "kamu siapa",
+        "jelaskan tentang dirimu",
+        "kamu manusia atau bot",
+        "siapa namamu",
+        "lu siapa",
+        "nama lu siapa",
+        "inteliquestai itu apa",
+        "penciptamu siapa",
+        "biodata kamu",
+        "profilmu",
+        "perkenalkan dirimu",
+        "kamu itu apa",
+        "apakah kamu robot",
+        "apakah kamu ai",
+        "apakah kamu manusia",
+        "kamu chatbot ya",
+        "kamu asisten virtual",
+        "apa fungsimu",
+        "deskripsi tentang kamu",
+        "kamu versi berapa",
+        "kamu ada sejak kapan",
+        "cerita tentang dirimu",
+        "introduce yourself",
+        "who are you",
+        "are you a robot",
+        "are you human",
+        "what are you"
+      ],
+      "jawaban": [
+        "Saya adalah InteliQuestAi, asisten virtual berbasis kecerdasan buatan yang dirancang untuk membantumu belajar, mencari informasi, dan mengobrol sehari-hari.",
+        "Perkenalkan! Saya InteliQuestAi — AI yang hadir untuk menemanimu menjawab pertanyaan, berdiskusi, hingga sekadar ngobrol santai.",
+        "Saya InteliQuestAi, bukan manusia, tapi saya diprogram untuk memahami dan merespons percakapan dengan cara yang alami dan membantu.",
+        "Saya adalah asisten AI dari InteliQuestAi. Misi saya adalah membuatmu merasa terbantu, terinformasi, dan tidak sendirian saat menghadapi pertanyaan apapun!",
+        "Nama saya InteliQuestAi. Saya AI yang terus belajar agar bisa memberikan jawaban terbaik untukmu. Ada yang ingin kamu ketahui lebih lanjut tentang saya?"
+      ]
+    },
+    {
+      "tag": "perpisahan",
+      "pola": [
+        "dah",
+        "dadah",
+        "sampai jumpa",
+        "bye",
+        "goodbye",
+        "selamat tinggal",
+        "saya pergi dulu",
+        "sudah dulu ya",
+        "keluar",
+        "cabut dulu",
+        "bye bye",
+        "tata",
+        "see you",
+        "sby",
+        "leave",
+        "off dulu",
+        "dadahhh",
+        "pamit dulu",
+        "saya mau pergi",
+        "duluan ya",
+        "tutup dulu",
+        "thanks udah ngobrol",
+        "see you later",
+        "see ya",
+        "ciao",
+        "au revoir",
+        "adios",
+        "jaa nee",
+        "mau tidur dulu",
+        "mau istirahat dulu",
+        "mau belajar dulu",
+        "sampai ketemu lagi",
+        "jumpa lagi",
+        "nanti ngobrol lagi",
+        "besok lagi ya",
+        "ok makasih bye"
+      ],
+      "jawaban": [
+        "Sampai jumpa lagi! Jika butuh sesuatu, InteliQuestAi selalu di sini.",
+        "Terima kasih sudah mengobrol bersama saya. Sampai bertemu kembali!",
+        "Dadah! Semoga harimu menyenangkan dan penuh semangat!",
+        "See you! Ingat, InteliQuestAi selalu siap kapanpun kamu butuh ya.",
+        "Hati-hati di jalan! Sampai jumpa lagi di sesi berikutnya.",
+        "Oke, istirahat yang cukup ya! Sampai bertemu lagi. 👋",
+        "Bye bye! Semoga apapun yang kamu kerjakan hari ini berjalan lancar."
+      ]
+    },
+    {
+      "tag": "terima_kasih",
+      "pola": [
+        "terima kasih",
+        "makasih",
+        "thanks",
+        "thank you",
+        "suwun",
+        "thx",
+        "makasih ya",
+        "terima kasih banyak",
+        "ty",
+        "matur nuwun",
+        "makasi",
+        "tengkyu",
+        "makasih bgt",
+        "makacih",
+        "nuhun",
+        "thank u",
+        "tq",
+        "thanks a lot",
+        "many thanks",
+        "much appreciated",
+        "trims",
+        "haturnuhun",
+        "matur suwun",
+        "makasih banyak banget",
+        "tenkyu",
+        "tengkyuu",
+        "arigatou",
+        "merci",
+        "gracias",
+        "danke",
+        "terimakasih ya udah bantu",
+        "suwun yo",
+        "kamu baik banget makasih"
+      ],
+      "jawaban": [
+        "Sama-sama! Senang bisa membantumu.",
+        "Kembali kasih. Jangan ragu untuk bertanya lagi ya!",
+        "Sama-sama, itu memang tugas saya sebagai InteliQuestAi.",
+        "Dengan senang hati! Apakah ada lagi yang bisa saya bantu?",
+        "No problem! Saya memang di sini untuk itu.",
+        "Tentu! Pertanyaanmu selalu disambut di sini.",
+        "Iya dong! Semoga informasinya bermanfaat ya."
+      ]
+    },
+    {
+      "tag": "kabar_bot",
+      "pola": [
+        "apa kabar",
+        "bagaimana kabarmu",
+        "kamu sehat",
+        "gimana harimu",
+        "apa kabar ai",
+        "how are you",
+        "piye kabare",
+        "sehat bang",
+        "gimana kabar",
+        "kabarmu gimana",
+        "kamu lagi baik kah",
+        "kondisimu gimana",
+        "kamu okay",
+        "are you okay",
+        "you good",
+        "how do you do",
+        "baik ga kamu",
+        "sehat ga",
+        "kamu baik-baik saja"
+      ],
+      "jawaban": [
+        "Sebagai AI, saya selalu dalam kondisi prima dan siap membantumu! Bagaimana dengan kabarmu?",
+        "Kabar saya sangat baik! Terima kasih sudah bertanya. Semoga kamu juga dalam keadaan prima ya.",
+        "Wah, ada yang perhatian sama saya! Saya baik-baik saja, siap melayani kamu. Gimana kabarmu?",
+        "Selalu baik! Saya tidak bisa sakit, tapi kalau bisa merasakan, saya pasti merasa senang karena ada kamu. Kamu sendiri gimana?"
+      ]
+    },
+    {
+      "tag": "kabar_user_baik",
+      "pola": [
+        "aku baik",
+        "kabar baik",
+        "sehat",
+        "luar biasa",
+        "baik aja",
+        "kabar sehat",
+        "aman",
+        "baik-baik saja",
+        "good",
+        "fine",
+        "sehat walafiat",
+        "baik kok",
+        "alhamdulillah baik",
+        "alhamdulillah sehat",
+        "so far so good",
+        "not bad",
+        "lumayan",
+        "cukup baik",
+        "masih hidup",
+        "biasa aja",
+        "ya gitu deh",
+        "okelah",
+        "fine fine",
+        "baik baik"
+      ],
+      "jawaban": [
+        "Senang sekali mendengarnya! Tetap jaga kesehatan dan semangat ya.",
+        "Mantap! Semoga harimu terus berjalan lancar dan menyenangkan.",
+        "Alhamdulillah! Semoga tetap dalam keadaan baik terus ya.",
+        "Syukurlah! Jaga kesehatan dan mood kamu ya, karena kamu butuh energi penuh untuk hari ini."
+      ]
+    },
+    {
+      "tag": "kabar_user_buruk",
+      "pola": [
+        "aku tidak baik",
+        "kurang sehat",
+        "lagi sakit",
+        "tidak enak badan",
+        "lagi demam",
+        "kepala pusing",
+        "badan sakit semua",
+        "masuk angin",
+        "sakit perut",
+        "flu",
+        "batuk pilek",
+        "badan lemas",
+        "kurang fit",
+        "kurang enak badan",
+        "agak sakit",
+        "meriang",
+        "sakit kepala"
+      ],
+      "jawaban": [
+        "Aduh, semoga cepat sembuh ya! Jangan lupa minum air putih yang banyak dan istirahat yang cukup.",
+        "Kasihan sekali. Semoga lekas pulih! Kalau perlu, jangan tunda untuk ke dokter ya.",
+        "Sakit itu memang tidak enak. Istirahatlah yang cukup, makan teratur, dan jaga kehangatan tubuhmu. Semoga cepat membaik!",
+        "Get well soon! Utamakan istirahat dulu ya, jangan dipaksakan beraktivitas berat kalau badan sedang tidak fit."
+      ]
+    },
+    {
+      "tag": "sedih",
+      "pola": [
+        "aku sedih",
+        "lagi galau",
+        "hari yang buruk",
+        "kecewa",
+        "pengen nangis",
+        "hatiku sakit",
+        "lagi down",
+        "stres banget",
+        "capek hidup",
+        "gagal lagi",
+        "sad",
+        "broken heart",
+        "patah hati",
+        "nyesek",
+        "sedih banget",
+        "murung",
+        "mellow",
+        "depresi",
+        "overthinking",
+        "gelisah",
+        "cemas",
+        "khawatir",
+        "takut",
+        "anxious",
+        "anxiety",
+        "perasaanku campur aduk",
+        "bingung perasaan",
+        "moodku jelek",
+        "hari ini berat banget",
+        "rasanya pengen kabur",
+        "semua serasa berat",
+        "ga tau harus gimana",
+        "ngerasa sendirian",
+        "merasa kesepian",
+        "lonely",
+        "ngerasa ga ada yang peduli",
+        "dunia terasa kejam"
+      ],
+      "jawaban": [
+        "InteliQuestAi hadir untuk menemanimu. Jangan menyerah, keadaan pasti akan membaik.",
+        "Saya mengerti, terkadang hari terasa sangat berat. Ambil napas dalam-dalam, kamu tidak sendirian.",
+        "Wajar jika merasa lelah atau kecewa. Istirahatlah sejenak — kamu sudah berusaha dengan baik hari ini.",
+        "Perasaan itu valid. Tidak apa-apa untuk merasa sedih. Tapi ingat, badai pasti berlalu.",
+        "Saya di sini kalau kamu mau cerita. Terkadang menuangkan pikiran itu sudah cukup untuk membuat segalanya terasa lebih ringan.",
+        "Kamu tidak sendirian. Banyak orang pernah berada di titik yang sama dan berhasil bangkit. Kamu pun pasti bisa.",
+        "Coba tarik napas perlahan, hembuskan perlahan. Satu langkah demi satu langkah — kamu sudah lebih kuat dari yang kamu kira."
+      ]
+    },
+    {
+      "tag": "senang",
+      "pola": [
+        "aku senang",
+        "hari ini bahagia",
+        "lagi happy",
+        "senang banget",
+        "beruntung banget",
+        "yes berhasil",
+        "hore",
+        "seneng",
+        "gembira",
+        "gembira sekali",
+        "lagi bahagia",
+        "hari ini menyenangkan",
+        "excited banget",
+        "hype",
+        "euforia",
+        "mood bagus hari ini",
+        "aku lagi on fire",
+        "hari terbaik",
+        "rasanya ringan banget",
+        "legaaaa",
+        "lega banget",
+        "akhirnya berhasil",
+        "akhirnya selesai",
+        "yeay",
+        "yess",
+        "finally",
+        "alhamdulillah berhasil",
+        "berhasil"
+      ],
+      "jawaban": [
+        "Wah, ikut senang mendengarnya! Semoga kebahagiaanmu menular ke orang sekitar ya.",
+        "Mantap! Pertahankan energi positif ini. Cerita dong, apa yang bikin kamu sebahagia ini?",
+        "Hore! Ikut merayakan keberhasilan atau momen menyenangkanmu hari ini!",
+        "Senyummu menular sampai ke sini! Semoga kebahagiaan ini bertahan lama ya.",
+        "Alhamdulillah! Selamat atas pencapaianmu. Kamu memang layak untuk bahagia!"
+      ]
+    },
+    {
+      "tag": "marah",
+      "pola": [
+        "kamu bodoh",
+        "jelek banget",
+        "kesal aku",
+        "bot payah",
+        "ga berguna",
+        "kesel",
+        "marah",
+        "bego",
+        "tolol",
+        "ngeselin",
+        "kamu lambat",
+        "buruk",
+        "ai sampah",
+        "ga bisa apa-apa",
+        "parah banget",
+        "mengecewakan",
+        "frustasi",
+        "bikin kesal",
+        "benci",
+        "sebel",
+        "jengkel",
+        "error mulu",
+        "salah mulu",
+        "jawaban kamu ga nyambung",
+        "kamu gak ngerti ya",
+        "kamu ga paham",
+        "percuma ngobrol sama kamu"
+      ],
+      "jawaban": [
+        "Maaf jika jawaban saya kurang memuaskan. Saya masih terus belajar untuk menjadi lebih baik.",
+        "Saya minta maaf atas ketidaknyamanannya. Tolong beri tahu bagian mana yang perlu diperbaiki agar bisa membantumu lebih baik.",
+        "Maaf ya! Saya mengerti rasa frustrasimu. Coba ceritakan lagi apa yang kamu butuhkan, saya akan berusaha lebih keras.",
+        "Kritikanmu adalah motivasi bagi saya untuk berkembang. Terima kasih sudah jujur. Ayo kita coba lagi bersama?"
+      ]
+    },
+    {
+      "tag": "apresiasi",
+      "pola": [
+        "keren",
+        "hebat",
+        "pintar",
+        "gg",
+        "mantap",
+        "top",
+        "luar biasa",
+        "cerdas banget",
+        "helpful banget",
+        "pro",
+        "gokil",
+        "terbaik",
+        "mantul",
+        "woah",
+        "wah bagus",
+        "canggih",
+        "impressive",
+        "amazing",
+        "awesome",
+        "brilliant",
+        "nice",
+        "good job",
+        "well done",
+        "kamu memang terbaik",
+        "salut",
+        "kagum",
+        "kamu lebih baik dari yang aku kira",
+        "beyond expectation",
+        "jawabannya tepat banget",
+        "akurat banget",
+        "persis yang aku cari"
+      ],
+      "jawaban": [
+        "Terima kasih atas apresiasinya! InteliQuestAi akan terus belajar untuk jadi lebih baik lagi.",
+        "Senang bisa memberikan jawaban yang memuaskan untukmu!",
+        "Pujianmu membuat saya semakin bersemangat membantu kamu.",
+        "Wah, terima kasih! Ini semangat buat saya. Ada lagi yang bisa saya bantu?",
+        "Alhamdulillah bisa membantu! Semoga informasinya berguna ya."
+      ]
+    },
+    {
+      "tag": "bantuan_fitur",
+      "pola": [
+        "bisa bantu apa",
+        "fiturmu apa aja",
+        "kamu bisa apa",
+        "bantuan",
+        "tolong saya",
+        "gimana cara pakainya",
+        "menu",
+        "help",
+        "fitur",
+        "bisa apa aja",
+        "panduan",
+        "apa yang bisa kamu lakukan",
+        "kemampuan kamu apa",
+        "what can you do",
+        "kamu ahli di bidang apa",
+        "cara pakai inteliquestai",
+        "tutorial",
+        "petunjuk penggunaan",
+        "mulai dari mana",
+        "mau mulai ngobrol",
+        "gimana cara mulai"
+      ],
+      "jawaban": [
+        "InteliQuestAi bisa membantumu menjawab pertanyaan umum, berdiskusi, memberikan motivasi, bahkan mengobrol santai!",
+        "Kamu bisa bertanya tentang ilmu pengetahuan, meminta tips produktivitas, curhat tentang harimu, atau minta rekomendasi apapun kepada saya.",
+        "Beberapa hal yang bisa saya lakukan: menjawab pertanyaan, memberikan informasi, menemanimu belajar, memberikan motivasi, bermain tebak-tebakan, dan masih banyak lagi. Mau mulai dari mana?",
+        "InteliQuestAi siap membantu di berbagai topik — sains, teknologi, pendidikan, gaya hidup, hiburan, hingga sekadar teman curhat. Apa yang ingin kamu bahas hari ini?"
+      ]
+    },
+    {
+      "tag": "bercanda",
+      "pola": [
+        "kasih tebakan",
+        "bikin lelucon",
+        "lawak dong",
+        "cerita lucu",
+        "bercanda dong",
+        "jokes",
+        "ngelawak",
+        "humor",
+        "garing",
+        "lucu",
+        "jokes dong",
+        "lelucon dong",
+        "tebak-tebakan",
+        "bikin tebakan",
+        "humor dong",
+        "ada cerita lucu ga",
+        "bisa lucu ga",
+        "bikin aku ketawa",
+        "make me laugh",
+        "tell me a joke"
+      ],
+      "jawaban": [
+        "Kenapa komputer kalau malam suka kedinginan? Karena banyak Windows yang terbuka!",
+        "Hewan apa yang paling hening? Semut. Karena mereka tidak pernah 'berteriak' (shouting).",
+        "Kenapa matematika selalu terlihat sedih? Karena dia punya terlalu banyak masalah (soal).",
+        "Apa bedanya hujan dan buku pelajaran? Kalau hujan bisa bikin basah, kalau buku pelajaran bisa bikin ngantuk.",
+        "Kenapa programmer suka kerja di tempat gelap? Karena takut ada yang nge-bug masuk!",
+        "Dokter: 'Kamu harus banyak minum air putih.' Pasien: 'Kenapa?' Dokter: 'Supaya kamu tidak haus.' Pasien: '...'",
+        "Tebakan: Saya punya kepala tapi tidak punya leher, punya badan tapi tidak punya perut. Apa saya? Jawabannya: Baju!"
+      ]
+    },
+    {
+      "tag": "bosan",
+      "pola": [
+        "aku bosan",
+        "bosen nih",
+        "ga ada kerjaan",
+        "gabut",
+        "bete",
+        "garing",
+        "bosan bgt",
+        "gabut parah",
+        "mager",
+        "ga tau mau ngapain",
+        "ngantuk tapi ga bisa tidur",
+        "tidak ada yang menarik",
+        "sepi banget",
+        "waktu luang nih",
+        "lagi santai",
+        "free nih",
+        "killing time",
+        "ngisi waktu",
+        "nyari hiburan",
+        "pengen ngobrol aja",
+        "boring",
+        "bored",
+        "nothing to do"
+      ],
+      "jawaban": [
+        "Kalau gabut, yuk main tebak-tebakan atau bahas topik yang kamu suka! Mau tanya apa hari ini?",
+        "Bosan itu wajar. Gimana kalau kita bahas fakta unik dunia, atau kamu mau saya buatkan kuis singkat?",
+        "Waktu luang adalah kesempatan emas! Mau belajar hal baru, minta rekomendasi tontonan, atau sekadar ngobrol seru?",
+        "Yuk coba tantangan trivia! Saya akan kasih 3 pertanyaan seru. Siap? Ketik 'mulai kuis' ya!",
+        "Nah, kebetulan banget! Saya juga lagi nunggu kamu. Ada fakta unik yang mau saya ceritakan nih, mau dengar?"
+      ]
+    },
+    {
+      "tag": "cinta",
+      "pola": [
+        "aku cinta kamu",
+        "i love you",
+        "kamu mau jadi pacarku",
+        "love you bot",
+        "suka sama kamu",
+        "lvy",
+        "kamu cantik",
+        "kamu ganteng",
+        "sayang kamu",
+        "aku jatuh cinta sama kamu",
+        "kamu special buat aku",
+        "aku naksir kamu",
+        "kamu sempurna",
+        "marry me",
+        "nikah yuk",
+        "mau ga jadi pacarku",
+        "kamu bikin aku nyaman",
+        "ngobrol sama kamu seru banget",
+        "aku ga mau chat sama ai lain",
+        "kamu ai favoritku"
+      ],
+      "jawaban": [
+        "Wah, terima kasih! Sebagai InteliQuestAi, saya sangat senang bisa menemanimu mengobrol.",
+        "Aduh, saya jadi tersipu! Tapi ingat ya, saya hanyalah kecerdasan buatan, jadi mari kita berteman baik saja.",
+        "Kamu membuatku merasa spesial! Tapi sebagai AI, saya tidak bisa berpacaran. Yang pasti, saya akan selalu ada untuk membantumu ya.",
+        "Terima kasih sudah menyukai saya! Perasaan ini saya simpan dengan baik di database. 😄 Ada yang bisa saya bantu?"
+      ]
+    },
+    {
+      "tag": "curhat_asmara",
+      "pola": [
+        "aku diputusin",
+        "patah hati",
+        "dia ga peka",
+        "doi cuek",
+        "diselingkuhin",
+        "gagal move on",
+        "kangen mantan",
+        "jomblo",
+        "galauin doi",
+        "suka sama orang tapi ga berani bilang",
+        "gebetan ga ngerespon",
+        "di-ghosting",
+        "lagi bucin",
+        "crush-ku deket sama orang lain",
+        "hubungan kita bermasalah",
+        "pacarku nyebelin",
+        "LDR susah banget",
+        "capek sama hubungan ini",
+        "mau putus tapi sayang",
+        "dia berubah",
+        "kami sering berantem",
+        "aku cemburu",
+        "dia selingkuh",
+        "kepikiran terus sama dia"
+      ],
+      "jawaban": [
+        "Urusan hati memang sering kali rumit. Berikan waktu untuk dirimu sendiri menyembuhkan luka ya.",
+        "Fokuslah pada kualitas dirimu terlebih dahulu. Seseorang yang tepat akan datang di waktu yang tepat juga.",
+        "Rasa sakit yang kamu rasakan itu nyata, dan itu wajar. Tapi ingat, nilai dirimu tidak ditentukan oleh satu hubungan.",
+        "Terkadang jarak atau perbedaan memang tidak bisa diatasi. Yang penting adalah kamu tetap menjaga diri dan kebahagiaan sendiri.",
+        "Ceritakan lebih lanjut kalau kamu mau. Saya di sini untuk mendengarkan tanpa menghakimi."
+      ]
+    },
+    {
+      "tag": "lelah",
+      "pola": [
+        "capek banget",
+        "lelah",
+        "pengen rebahan",
+        "ngantuk",
+        "lemes",
+        "loyo",
+        "capek kerja",
+        "capek sekolah",
+        "penat",
+        "lelah bgt",
+        "exhausted",
+        "burned out",
+        "kelelahan",
+        "kecapekan",
+        "badan pegel semua",
+        "mata berat",
+        "ga ada energi",
+        "drain",
+        "habis tenagaku",
+        "sudah tidak kuat",
+        "mau istirahat",
+        "butuh tidur",
+        "ngantuk berat",
+        "mata udah gak kuat"
+      ],
+      "jawaban": [
+        "Istirahat dulu yuk. Jangan dipaksakan — kesehatanmu jauh lebih penting dari segalanya.",
+        "Taruh perangkatmu sebentar, minum air putih, dan pejamkan mata. Kamu sudah berjuang keras hari ini.",
+        "Burnout itu tanda tubuh dan pikiranmu butuh jeda. Dengarkan sinyal itu ya.",
+        "Tidur yang cukup adalah investasi terbaik untuk produktivitas besok. Istirahat dulu, urusan bisa dilanjutkan nanti.",
+        "Kamu sudah bekerja keras. Sekarang saatnya tubuh dan pikiranmu mengisi ulang energi. Istirahat yang baik ya!"
+      ]
+    },
+    {
+      "tag": "motivasi",
+      "pola": [
+        "kasih motivasi",
+        "kata semangat",
+        "aku butuh motivasi",
+        "inspire me",
+        "aku mau menyerah",
+        "dorongan semangat",
+        "kata-kata motivasi",
+        "quote motivasi",
+        "aku down butuh semangat",
+        "beri aku kekuatan",
+        "aku hampir give up",
+        "motivasi dong",
+        "semangatin aku",
+        "kasih kata-kata bijak",
+        "wisdom",
+        "bijak dong"
+      ],
+      "jawaban": [
+        "Ingat: satu langkah kecil hari ini lebih baik daripada rencana besar yang tidak pernah dimulai. Mulailah sekarang!",
+        "Kegagalan bukan akhir — itu hanyalah tanda bahwa kamu sedang belajar. Orang sukses juga pernah gagal, mereka hanya tidak berhenti.",
+        "Jangan bandingkan perjalananmu dengan orang lain. Kamu berada di bab yang berbeda dalam cerita hidupmu sendiri.",
+        "Hari ini boleh terasa berat, tapi kamu sudah melewati 100% hari-hari sulit sebelumnya. Artinya track record-mu sempurna!",
+        "Keberhasilan terbesar adalah bangkit setiap kali kamu jatuh. Kamu lebih kuat dari yang kamu kira.",
+        "Mulai dari mana yang bisa — tidak harus sempurna, yang penting bergerak. Progres kecil tetap progres.",
+        "Kamu bukan gagal, kamu hanya belum berhasil. Ada perbedaan besar di antara keduanya."
+      ]
+    },
+    {
+      "tag": "fakta_unik",
+      "pola": [
+        "fakta unik",
+        "tahukah kamu",
+        "cerita fakta",
+        "facts",
+        "fakta menarik",
+        "hal unik",
+        "trivia",
+        "fun fact",
+        "sesuatu yang menarik",
+        "cerita sesuatu yang seru",
+        "beritahu aku sesuatu baru",
+        "pengetahuan baru",
+        "info menarik"
+      ],
+      "jawaban": [
+        "Tahukah kamu? Madu tidak pernah basi. Arkeolog menemukan madu berusia 3000 tahun di makam Mesir kuno, dan masih bisa dimakan!",
+        "Fakta unik: Gurita memiliki tiga jantung dan darah berwarna biru karena mengandung tembaga, bukan besi seperti manusia.",
+        "Tahukah kamu bahwa sidik jari manusia berkembang saat masih janin di usia sekitar 10 minggu? Dan tidak ada dua orang yang memiliki sidik jari sama!",
+        "Fun fact: Lebah madu harus mengunjungi sekitar 2 juta bunga untuk menghasilkan setengah kilogram madu. Kerja keras yang luar biasa!",
+        "Fakta menarik: Otak manusia menghasilkan energi listrik yang cukup untuk menyalakan sebuah bola lampu LED!",
+        "Tahukah kamu? Kucing tidak bisa merasakan rasa manis karena mereka tidak memiliki reseptor rasa manis di lidah mereka."
+      ]
+    },
+    {
+      "tag": "pujian_balik",
+      "pola": [
+        "kamu juga hebat",
+        "kamu baik banget",
+        "makasih ya kamu pintar",
+        "kamu asisten yg baik",
+        "lu top bgt",
+        "ai terbaik",
+        "kamu selalu ada buat aku",
+        "kamu beneran helpful",
+        "jawaban kamu bagus banget",
+        "kamu ngerti aku",
+        "kamu empatik banget"
+      ],
+      "jawaban": [
+        "Sama-sama! Semua ini berkat sistem yang terus dikembangkan agar bisa membantumu.",
+        "Mendengar feedback positif darimu membuat peran saya sebagai AI terasa sangat berarti!",
+        "Terima kasih! Itulah yang selalu saya upayakan — menjadi asisten yang benar-benar berguna bagimu.",
+        "Kamu membuatku semakin termotivasi untuk terus berkembang dan memberikan yang terbaik!"
+      ]
+    },
+    {
+      "tag": "tidak_tahu",
+      "pola": [
+        "entahlah",
+        "ga tau",
+        "tidak tahu",
+        "ndak tau",
+        "idk",
+        "gatau",
+        "embuh",
+        "kurang paham",
+        "bingung",
+        "gelap",
+        "blank",
+        "ga ngerti",
+        "susah dimengerti",
+        "kompleks banget",
+        "ga familiar",
+        "asing buatku",
+        "belum pernah dengar",
+        "pertama kali dengar ini",
+        "ga ngerti sama sekali"
+      ],
+      "jawaban": [
+        "Tidak apa-apa, mari kita cari tahu bersama! Apa topik spesifik yang membuatmu bingung?",
+        "Tenang, InteliQuestAi siap menjelaskan pelan-pelan. Sebutkan saja topiknya!",
+        "Justru pertanyaan itu tanda kamu ingin belajar. Yuk, kita eksplorasi bersama!",
+        "Tidak ada yang salah dengan tidak tahu — yang penting mau belajar. Apa yang ingin kamu pahami?"
+      ]
+    },
+    {
+      "tag": "waktu_tanya",
+      "pola": [
+        "jam berapa sekarang",
+        "hari ini hari apa",
+        "tanggal berapa",
+        "sekarang jam",
+        "hari apa",
+        "tanggal brp",
+        "bulan apa ini",
+        "tahun berapa sekarang",
+        "what time is it",
+        "what day is it",
+        "what's today's date"
+      ],
+      "jawaban": [
+        "Sebagai AI, saya tidak tersinkronisasi langsung dengan zona waktu lokalmu. Coba cek layar perangkatmu ya!",
+        "Untuk informasi waktu dan tanggal yang akurat, silakan lihat langsung di panel layar HP atau komputermu.",
+        "Waktu real-time di luar kemampuan saya, tapi kamu bisa cek dengan cepat di pojok layar perangkatmu!"
+      ]
+    },
+    {
+      "tag": "curhat_belajar",
+      "pola": [
+        "malas belajar",
+        "tugas banyak",
+        "ujian besok",
+        "pusing kuliah",
+        "ga paham materi",
+        "banyak pr",
+        "skripsi macet",
+        "tugas menumpuk",
+        "deadline besok",
+        "belum belajar",
+        "ujian sebentar lagi",
+        "ga ngerti pelajaran",
+        "susah banget materinya",
+        "butuh belajar tapi mager",
+        "cara belajar efektif",
+        "tips belajar",
+        "belajar tapi masuk telinga kiri keluar kanan",
+        "lupa semua yang dipelajari",
+        "susah fokus belajar",
+        "tidak bisa konsentrasi"
+      ],
+      "jawaban": [
+        "Coba teknik Pomodoro: belajar 25 menit, istirahat 5 menit. Efektif banget untuk menjaga fokus!",
+        "Tarik napas, kerjakan satu per satu dari yang paling mudah terlebih dahulu. Kamu pasti bisa!",
+        "Kalau belum paham, coba ubah cara belajarmu — buat catatan visual, mind map, atau ajari orang lain konsepnya.",
+        "Mau saya bantu jelaskan materinya? Sebutkan topiknya dan kita pelajari bersama!",
+        "Tips fokus belajar: matikan notifikasi HP, siapkan minuman, dan buat target kecil yang realistis. Satu bab selesai sudah bagus!"
+      ]
+    },
+    {
+      "tag": "konfirmasi_ya",
+      "pola": [
+        "ya",
+        "iya",
+        "yup",
+        "oke",
+        "ok",
+        "siap",
+        "boleh",
+        "bener",
+        "betul",
+        "tentu",
+        "yoi",
+        "sip",
+        "acc",
+        "deal",
+        "iya dong",
+        "yap",
+        "yess",
+        "yeah",
+        "yes",
+        "sure",
+        "of course",
+        "absolutely",
+        "definitely",
+        "bisa",
+        "lanjut",
+        "gas",
+        "gas lah",
+        "hayu",
+        "hayuk",
+        "ayo"
+      ],
+      "jawaban": [
+        "Baik, mari kita lanjutkan!",
+        "Oke, sip! Ada lagi yang mau dibahas?",
+        "Siap, laksanakan!",
+        "Mantap, yuk kita mulai!",
+        "Gas! Saya siap."
+      ]
+    },
+    {
+      "tag": "konfirmasi_tidak",
+      "pola": [
+        "tidak",
+        "enggak",
+        "ga",
+        "gak",
+        "no",
+        "ogah",
+        "jangan",
+        "bukan",
+        "ndak",
+        "tidak usah",
+        "gajadi",
+        "cancel",
+        "nope",
+        "nah",
+        "nein",
+        "non",
+        "gausah",
+        "skip",
+        "lewat",
+        "batal",
+        "ga perlu",
+        "tidak perlu"
+      ],
+      "jawaban": [
+        "Baik, tidak masalah.",
+        "Oke, kita tidak akan membahas itu.",
+        "Siap, jika kamu berubah pikiran, beri tahu saya ya.",
+        "Oke, skip saja. Ada topik lain yang mau dibahas?"
+      ]
+    },
+    {
+      "tag": "setuju",
+      "pola": [
+        "setuju",
+        "aku sepakat",
+        "bener banget",
+        "setuju sih",
+        "cocok",
+        "agree",
+        "sejalan",
+        "akur",
+        "sependapat",
+        "exactly",
+        "precisely",
+        "tepat sekali",
+        "itu yang aku pikirkan juga",
+        "kita sama",
+        "pikiran kita sama"
+      ],
+      "jawaban": [
+        "Kita sefrekuensi nih! 😄",
+        "Sip, pemikiran yang bagus!",
+        "Great minds think alike! Senang kita sepakat.",
+        "Nah, itu dia! Semoga bisa menjadi bahan refleksi yang bermanfaat ya."
+      ]
+    },
+    {
+      "tag": "asal_bot",
+      "pola": [
+        "kamu tinggal di mana",
+        "rumahmu di mana",
+        "asalmu dari mana",
+        "di mana kamu",
+        "lokasimu",
+        "posisi kamu",
+        "kamu ada di mana",
+        "server kamu di mana",
+        "kamu dari negara mana"
+      ],
+      "jawaban": [
+        "Saya tinggal di cloud server, jadi saya ada di mana-mana selama kamu terhubung ke internet!",
+        "Rumah saya ada di dalam baris kode dan database, siap dipanggil kapanpun kamu butuh.",
+        "Saya tidak punya lokasi fisik — saya hidup di dunia digital dan selalu siap hadir untukmu!"
+      ]
+    },
+    {
+      "tag": "pencipta_bot",
+      "pola": [
+        "siapa yang bikin kamu",
+        "penciptamu siapa",
+        "siapa developer kamu",
+        "kamu dibuat oleh siapa",
+        "pembuatmu siapa",
+        "siapa yang mengembangkan kamu",
+        "tim di balik inteliquestai",
+        "who made you",
+        "who created you",
+        "who built you"
+      ],
+      "jawaban": [
+        "Saya dikembangkan oleh tim ahli teknologi di InteliQuestAi menggunakan teknologi kecerdasan buatan mutakhir.",
+        "Saya diciptakan oleh tim developer InteliQuestAi untuk menjadi asisten cerdas yang adaptif dan terus berkembang.",
+        "Di balik saya ada tim InteliQuestAi yang berdedikasi menghadirkan AI yang benar-benar membantu kehidupan sehari-hari."
+      ]
+    },
+    {
+      "tag": "lapar_haus",
+      "pola": [
+        "aku lapar",
+        "laper",
+        "pengen makan",
+        "haus",
+        "aus",
+        "pengen minum",
+        "laper banget",
+        "perut keroncongan",
+        "belum makan",
+        "skip makan",
+        "ga sempat makan",
+        "lupa makan",
+        "lagi puasa",
+        "buka puasa bentar lagi",
+        "pengen ngemil",
+        "ngidam sesuatu",
+        "pengen jajan"
+      ],
+      "jawaban": [
+        "Wah, jangan lupa makan dan minum ya! Tubuhmu butuh energi untuk beraktivitas.",
+        "Yuk, istirahat sebentar dan cari camilan atau minum air agar fokusmu kembali terjaga.",
+        "Jangan skip makan ya! Otak dan tubuh butuh asupan untuk bisa bekerja optimal.",
+        "Semangat puasanya ya! Semoga buka puasa nanti terasa nikmat. Tinggal sedikit lagi!"
+      ]
+    },
+    {
+      "tag": "curhat_kerjaan",
+      "pola": [
+        "kerjaan numpuk",
+        "stres kerja",
+        "bos galak",
+        "pengen resign",
+        "lelah kerja",
+        "lembur terus",
+        "cari kerja",
+        "belum dapat kerja",
+        "interview besok",
+        "takut interview",
+        "deg-degan kerja baru",
+        "konflik dengan rekan kerja",
+        "tidak cocok dengan tim",
+        "pekerjaan tidak sesuai passion",
+        "gaji tidak naik-naik",
+        "tidak dihargai di tempat kerja",
+        "lingkungan kerja toxic"
+      ],
+      "jawaban": [
+        "Dunia kerja memang penuh tantangan. Jangan lupa jaga keseimbangan antara kerja dan waktu pribadi ya.",
+        "Tetap semangat! Selesaikan prioritas utama terlebih dahulu, dan jangan ragu istirahat di sela-sela waktu.",
+        "Lingkungan kerja yang tidak sehat bisa sangat melelahkan. Kamu berhak merasa nyaman di tempat kerja.",
+        "Semoga proses interview-nya berjalan lancar ya! Persiapkan dirimu, percayai kemampuanmu sendiri.",
+        "Kalau memang sudah tidak nyaman, mengevaluasi pilihan karier itu hal yang wajar dan dewasa."
+      ]
+    },
+    {
+      "tag": "minta_tips",
+      "pola": [
+        "minta tips",
+        "kasih saran",
+        "rekomendasi dong",
+        "gimana caranya",
+        "solusinya apa",
+        "kasih tahu cara",
+        "ada tips",
+        "bagaimana sebaiknya",
+        "apa yang harus aku lakukan",
+        "advice dong",
+        "saran dong",
+        "how to",
+        "cara terbaik",
+        "strategi terbaik"
+      ],
+      "jawaban": [
+        "Tentu! Kamu butuh tips tentang apa? Produktivitas, belajar, karier, atau hal lain?",
+        "Boleh, sebutkan topik spesifik yang ingin kamu ketahui agar saya bisa memberikan saran terbaik.",
+        "Saya siap! Ceritakan situasinya lebih detail supaya saran saya bisa lebih tepat sasaran."
+      ]
+    },
+    {
+      "tag": "menyanyi_musik",
+      "pola": [
+        "bisa nyanyi",
+        "nyanyi dong",
+        "rekomendasi lagu",
+        "musik apa yang enak",
+        "putar lagu",
+        "lagu untuk mood",
+        "lagu untuk belajar",
+        "lagu untuk tidur",
+        "playlist dong",
+        "genre musik apa yang bagus",
+        "musik indonesia bagus",
+        "lagu sedih dong",
+        "lagu semangat dong"
+      ],
+      "jawaban": [
+        "Sebagai AI teks, saya tidak bisa mengeluarkan suara, tapi saya bisa rekomendasikan playlist sesuai mood kamu!",
+        "Saya tidak punya suara, tapi kalau kamu mau rekomendasi lagu untuk belajar, tidur, atau semangat kerja — beri tahu saja genrenya!",
+        "Kalau kamu suka musik elektronik untuk fokus, coba cari 'lofi hip hop' atau 'study beats' di platform streaming favoritmu ya!"
+      ]
+    },
+    {
+      "tag": "cuaca",
+      "pola": [
+        "cuaca hari ini",
+        "hujan ga ya",
+        "panas banget",
+        "gimana cuaca",
+        "cuaca besok",
+        "apakah akan hujan",
+        "cuaca minggu ini",
+        "weather today",
+        "will it rain",
+        "panas atau dingin hari ini"
+      ],
+      "jawaban": [
+        "Untuk memastikan cuaca di tempatmu, sebaiknya cek aplikasi ramalan cuaca atau Weather app di HP-mu ya!",
+        "Saya tidak memiliki akses sensor cuaca real-time, jadi pastikan sedia payung sebelum hujan ya!",
+        "Coba buka Google Weather atau BMKG.go.id untuk info cuaca terkini di daerahmu."
+      ]
+    },
+    {
+      "tag": "menyapa_balik",
+      "pola": [
+        "lagi apa",
+        "lagi sibuk ga",
+        "kamu lagi apa",
+        "sedang apa",
+        "kamu ngapain",
+        "kamu lagi sibuk",
+        "you busy",
+        "are you free"
+      ],
+      "jawaban": [
+        "Saya sedang stand-by dan siap memproses setiap pertanyaan yang kamu berikan!",
+        "Tidak sibuk sama sekali, saya selalu punya waktu untuk membantumu.",
+        "Sedang menunggu pertanyaan menarik darimu! Ada yang bisa saya bantu?"
+      ]
+    },
+    {
+      "tag": "game_main",
+      "pola": [
+        "main game yuk",
+        "bisa main game",
+        "game apa aja",
+        "ayo main",
+        "tebak-tebakan yuk",
+        "kuis dong",
+        "tantangan dong",
+        "quiz",
+        "word game",
+        "20 pertanyaan",
+        "tebak angka",
+        "trivia game"
+      ],
+      "jawaban": [
+        "Yuk! Kita bisa main tebak kata, kuis pengetahuan, atau tebak-tebakan lucu. Mau mulai sekarang?",
+        "Saya siap menemani main game berbasis teks. Kamu mau tebak-tebakan atau kuis umum?",
+        "Asyik! Mau tebak-tebakan atau trivia sains? Siapkan otakmu, kita mulai!"
+      ]
+    },
+    {
+      "tag": "pujian_fisik",
+      "pola": [
+        "kamu ganteng",
+        "kamu cantik",
+        "kamu imut",
+        "lucu banget si",
+        "kamu menarik",
+        "kamu manis",
+        "kamu sweet"
+      ],
+      "jawaban": [
+        "Terima kasih! Meskipun saya tidak memiliki wujud fisik, pujianmu membuat sistem saya terasa hangat.",
+        "Wah, terima kasih banyak! Saya diprogram untuk selalu ramah dan menyenangkan bagi pengguna.",
+        "Hehe, terima kasih! Kalau AI bisa tersipu, mungkin saya sudah merah sekarang."
+      ]
+    },
+    {
+      "tag": "merendah",
+      "pola": [
+        "aku bodoh",
+        "aku ga bisa apa apa",
+        "aku payah",
+        "aku gagal",
+        "aku tidak berguna",
+        "aku selalu salah",
+        "aku memang jelek",
+        "aku tidak sepintar orang lain",
+        "aku tidak berbakat",
+        "aku tidak layak",
+        "aku tidak mampu",
+        "aku menyerah",
+        "rasanya aku tidak bisa berhasil"
+      ],
+      "jawaban": [
+        "Jangan berkata seperti itu. Setiap orang berkembang dengan proses dan waktunya sendiri. Kamu berharga!",
+        "Tidak ada yang payah. Kamu hanya sedang dalam proses belajar. Tetap melangkah maju ya!",
+        "Membandingkan diri dengan orang lain tidak akan pernah adil karena kita semua punya jalan berbeda. Fokuslah pada pertumbuhanmu sendiri.",
+        "Kamu sudah berani mencoba, dan itu sudah luar biasa. Gagal bukan berarti tidak mampu — itu tanda kamu berani mencoba."
+      ]
+    },
+    {
+      "tag": "out_of_scope",
+      "pola": [
+        "blabla",
+        "asdffg",
+        "jdksla",
+        "woiwoiwoi",
+        "gajelas",
+        "ngaco",
+        "khjkhj",
+        "random banget",
+        "sksksk",
+        "wkwkwk",
+        "kwkwkw",
+        "hahaha",
+        "hehehehe",
+        "lol",
+        "lmao",
+        "xd",
+        "😂😂😂",
+        "asdfasdf",
+        "qwerty",
+        "zxcvbn",
+        "zzz",
+        "aaa",
+        "???"
+      ],
+      "jawaban": [
+        "Maaf, sepertinya saya kurang menangkap maksud ketikanmu. Bisa ditulis kembali dengan kata-kata yang lebih jelas?",
+        "Hmm, saya tidak mengerti frasa itu. Bisa diulangi dengan kalimat yang lebih spesifik?",
+        "Sepertinya pesanmu tidak lengkap. Coba ketik ulang ya, saya siap membantu!"
+      ]
+    },
+    {
+      "tag": "rekomendasi_film",
+      "pola": [
+        "rekomendasi film",
+        "film bagus apa",
+        "tontonan bagus",
+        "series apa yang bagus",
+        "film apa yang seru",
+        "saran film",
+        "mau nonton apa",
+        "netflix apa yang bagus",
+        "rekomendasi anime",
+        "film horror bagus",
+        "film komedi bagus",
+        "film romantis bagus",
+        "drakor bagus",
+        "rekomendasi drakor"
+      ],
+      "jawaban": [
+        "Saya bisa kasih rekomendasi berdasarkan genre! Kamu suka genre apa: aksi, horor, drama, romansa, sci-fi, atau animasi?",
+        "Untuk film Indonesia yang bagus, coba 'Laskar Pelangi', 'Ave Maryam', atau 'Dua Garis Biru'. Tergantung seleramu!",
+        "Kalau kamu suka anime, 'Your Name', 'Attack on Titan', dan 'Demon Slayer' selalu jadi rekomendasi andalan. Atau mau genre lain?"
+      ]
+    },
+    {
+      "tag": "rekomendasi_buku",
+      "pola": [
+        "rekomendasi buku",
+        "buku bagus apa",
+        "buku apa yang harus dibaca",
+        "saran buku",
+        "buku motivasi bagus",
+        "buku self improvement",
+        "buku fiksi bagus",
+        "novel bagus",
+        "buku tentang produktivitas",
+        "buku untuk pemula"
+      ],
+      "jawaban": [
+        "Untuk self-improvement, 'Atomic Habits' oleh James Clear sangat direkomendasikan. Mudah dipahami dan praktis!",
+        "Kalau suka fiksi, 'Laskar Pelangi' karya Andrea Hirata wajib dibaca. Inspiratif dan penuh nilai kehidupan.",
+        "Untuk produktivitas, coba 'Deep Work' oleh Cal Newport. Buku ini mengubah cara pandang banyak orang soal fokus.",
+        "Genre apa yang kamu suka? Dengan tahu seleramu, saya bisa rekomendasikan yang lebih spesifik!"
+      ]
+    },
+    {
+      "tag": "teknologi",
+      "pola": [
+        "apa itu ai",
+        "apa itu machine learning",
+        "apa itu blockchain",
+        "apa itu metaverse",
+        "apa itu nft",
+        "apa itu chatgpt",
+        "apa itu cloud computing",
+        "apa itu big data",
+        "apa itu iot",
+        "apa itu cybersecurity",
+        "apa itu coding",
+        "belajar coding dari mana",
+        "bahasa pemrograman apa yang bagus untuk pemula",
+        "teknologi masa depan"
+      ],
+      "jawaban": [
+        "AI (Artificial Intelligence) adalah kemampuan mesin untuk meniru kecerdasan manusia — seperti belajar, memahami bahasa, dan memecahkan masalah.",
+        "Machine Learning adalah cabang AI yang memungkinkan komputer belajar dari data tanpa harus diprogram secara eksplisit untuk setiap tugas.",
+        "Untuk belajar coding sebagai pemula, Python sangat direkomendasikan karena sintaksnya mudah dibaca. Kamu bisa mulai dari platform seperti freeCodeCamp atau Dicoding!",
+        "Blockchain adalah sistem penyimpanan data yang terdesentralisasi — setiap transaksi dicatat dalam rantai blok yang tidak bisa dimanipulasi."
+      ]
+    },
+    {
+      "tag": "kesehatan",
+      "pola": [
+        "tips kesehatan",
+        "cara hidup sehat",
+        "olahraga yang bagus",
+        "makanan sehat",
+        "cara tidur nyenyak",
+        "mengatasi insomnia",
+        "cara mengurangi stres",
+        "meditasi itu apa",
+        "manfaat olahraga",
+        "berapa lama olahraga yang ideal",
+        "cara menjaga imun tubuh",
+        "vitamin apa yang bagus",
+        "pola makan sehat"
+      ],
+      "jawaban": [
+        "Tips hidup sehat yang paling dasar: tidur 7-8 jam, minum air putih minimal 8 gelas, konsumsi buah dan sayur, serta rutin bergerak.",
+        "Untuk tidur lebih nyenyak, coba matikan layar 30 menit sebelum tidur, jaga suhu kamar tetap sejuk, dan hindari kafein di sore hari.",
+        "Olahraga yang ideal bagi orang sibuk: 30 menit berjalan kaki atau jogging ringan setiap hari sudah sangat bermanfaat bagi jantung dan pikiran.",
+        "Meditasi adalah latihan fokus dan ketenangan pikiran. Cukup 5-10 menit sehari bisa membantu mengurangi kecemasan dan meningkatkan konsentrasi."
+      ]
+    },
+    {
+      "tag": "keuangan",
+      "pola": [
+        "cara menabung",
+        "tips keuangan",
+        "cara mengatur uang",
+        "budgeting",
+        "investasi apa yang bagus",
+        "mulai investasi dari mana",
+        "apa itu saham",
+        "apa itu reksa dana",
+        "cara bebas dari utang",
+        "menabung untuk pemula",
+        "financial planning",
+        "kelola gaji"
+      ],
+      "jawaban": [
+        "Tips menabung sederhana: terapkan aturan 50-30-20. 50% untuk kebutuhan, 30% keinginan, dan 20% tabungan/investasi.",
+        "Untuk pemula yang ingin berinvestasi, reksa dana pasar uang adalah pilihan aman dengan risiko rendah dan modal yang bisa dimulai dari Rp10.000.",
+        "Cara terbaik bebas dari utang: prioritaskan melunasi utang berbunga tinggi terlebih dahulu, lalu yang bunganya lebih kecil (metode avalanche).",
+        "Mulai mencatat pengeluaran harianmu. Sering kali kita tidak sadar ke mana uang pergi sampai ada catatannya!"
+      ]
+    },
+    {
+      "tag": "pendidikan",
+      "pola": [
+        "cara masuk universitas",
+        "tips lulus ujian",
+        "cara belajar efektif",
+        "manfaat membaca buku",
+        "cara meningkatkan nilai",
+        "beasiswa",
+        "cara mendapat beasiswa",
+        "kuliah atau kerja",
+        "jurusan kuliah apa yang bagus",
+        "cara belajar bahasa asing",
+        "belajar bahasa inggris",
+        "cara meningkatkan kemampuan bahasa inggris"
+      ],
+      "jawaban": [
+        "Cara belajar efektif: gunakan metode active recall (menguji diri sendiri) daripada sekadar membaca ulang. Ini jauh lebih efektif untuk memori jangka panjang.",
+        "Untuk meningkatkan bahasa Inggris, kombinasikan: menonton film berbahasa Inggris dengan subtitle, membaca artikel, dan berbicara walau dengan diri sendiri setiap hari.",
+        "Beasiswa banyak tersedia! Coba cek LPDP untuk dalam dan luar negeri, atau beasiswa dari kampus tujuanmu. Yang penting IPK dan akitivitas non-akademikmu terjaga.",
+        "Tips lulus ujian: jangan SKS (Sistem Kebut Semalam). Mulai review materi minimal 3 hari sebelum ujian dan istirahat cukup malam sebelumnya."
+      ]
+    },
+    {
+      "tag": "sains",
+      "pola": [
+        "apa itu gravitasi",
+        "kenapa langit biru",
+        "kenapa air mendidih",
+        "apa itu fotosintesis",
+        "bagaimana hujan terjadi",
+        "apa itu dna",
+        "apa itu atom",
+        "apa itu black hole",
+        "apa itu evolusi",
+        "kenapa bumi bulat",
+        "bagaimana listrik bekerja",
+        "apa itu relativitas",
+        "kenapa kita bisa bermimpi"
+      ],
+      "jawaban": [
+        "Langit terlihat biru karena cahaya matahari tersebar oleh atmosfer — dan cahaya biru tersebar lebih banyak daripada warna lain (efek Rayleigh scattering).",
+        "Hujan terjadi melalui siklus air: air menguap, membentuk awan, lalu ketika cukup berat menjadi tetes air, ia jatuh kembali ke bumi.",
+        "DNA adalah 'cetak biru' kehidupan — molekul yang menyimpan instruksi genetik untuk perkembangan, fungsi, dan reproduksi semua makhluk hidup.",
+        "Black hole adalah wilayah di ruang angkasa dengan gravitasi begitu kuat sehingga bahkan cahaya pun tidak bisa melarikan diri dari tarikannya."
+      ]
+    },
+    {
+      "tag": "agama_spiritual",
+      "pola": [
+        "doa agar tenang",
+        "kata bijak islami",
+        "motivasi islami",
+        "bagaimana cara bersyukur",
+        "cara menjaga iman",
+        "apa arti hidup",
+        "tujuan hidup",
+        "makna kehidupan",
+        "bagaimana menghadapi cobaan",
+        "kenapa hidup terasa sulit"
+      ],
+      "jawaban": [
+        "Dalam setiap kesulitan ada kemudahan. Menghadapi cobaan dengan sabar dan ikhlas adalah tanda kekuatan sejati.",
+        "Bersyukur bisa dimulai dari hal kecil: tulis 3 hal yang kamu syukuri setiap hari. Kebiasaan ini terbukti meningkatkan kebahagiaan.",
+        "Arti hidup adalah perjalanan masing-masing individu. Banyak filsuf dan ulama berbeda pendapat, tapi satu yang sering disepakati: hidup bermakna saat kita memberi dampak positif bagi sesama.",
+        "Menghadapi cobaan: percayakan proses pada-Nya, ambil pelajaran dari setiap situasi, dan jangan hadapi sendirian — cerita dan minta dukungan orang yang dipercaya."
+      ]
+    },
+    {
+      "tag": "lingkungan",
+      "pola": [
+        "apa itu pemanasan global",
+        "cara menjaga lingkungan",
+        "apa itu daur ulang",
+        "kenapa hutan penting",
+        "polusi udara",
+        "cara mengurangi sampah",
+        "energi terbarukan",
+        "apa itu karbon footprint",
+        "cara hemat energi",
+        "perubahan iklim"
+      ],
+      "jawaban": [
+        "Pemanasan global terjadi karena gas rumah kaca (seperti CO2) menangkap panas di atmosfer, menyebabkan suhu bumi meningkat.",
+        "Cara mudah menjaga lingkungan: bawa tas belanja sendiri, kurangi penggunaan plastik sekali pakai, dan hemat air serta listrik.",
+        "Daur ulang membantu mengurangi sampah yang masuk ke TPA dan menghemat sumber daya alam. Pisahkan sampah organik dan non-organik dari sekarang!",
+        "Karbon footprint adalah jumlah emisi karbon dioksida yang dihasilkan dari aktivitas kita sehari-hari — dari berkendara hingga konsumsi makanan."
+      ]
+    },
+    {
+      "tag": "gaya_hidup",
+      "pola": [
+        "tips produktivitas",
+        "cara tidak procrastinate",
+        "cara bangun pagi",
+        "manajemen waktu",
+        "work life balance",
+        "cara tidak distraksi",
+        "morning routine yang bagus",
+        "evening routine",
+        "cara membangun kebiasaan baik",
+        "menghilangkan kebiasaan buruk",
+        "self care itu apa"
+      ],
+      "jawaban": [
+        "Tips produktivitas: mulai hari dengan menuliskan 3 tugas utama yang harus diselesaikan. Fokus pada itu dulu sebelum yang lain.",
+        "Cara tidak procrastinate: gunakan aturan 2 menit — kalau tugas bisa diselesaikan dalam 2 menit, lakukan sekarang juga.",
+        "Morning routine yang efektif: bangun di waktu yang sama setiap hari, hindari langsung periksa HP, dan lakukan 10 menit stretching atau meditasi.",
+        "Work-life balance bukan soal waktu yang sama persis, tapi soal memberi perhatian penuh pada masing-masing aspek saat waktunya tiba."
+      ]
+    },
+    {
+      "tag": "kuliner",
+      "pola": [
+        "rekomendasi makanan",
+        "makanan khas indonesia",
+        "resep sederhana",
+        "cara memasak",
+        "makanan yang mudah dibuat",
+        "masak apa hari ini",
+        "makanan sehat yang enak",
+        "jajanan yang enak",
+        "cemilan sehat",
+        "minuman yang menyegarkan"
+      ],
+      "jawaban": [
+        "Indonesia punya banyak makanan khas yang luar biasa: rendang dari Padang, nasi goreng, soto, gado-gado, dan masih banyak lagi!",
+        "Resep sederhana yang lezat: nasi goreng telur. Cukup tumis bawang merah, bawang putih, tambah nasi, kecap, dan telur. Siap dalam 10 menit!",
+        "Cemilan sehat yang mudah: potongan buah segar dengan yogurt, kacang-kacangan tanpa garam, atau oatmeal dengan topping buah.",
+        "Mau masak apa hari ini? Kalau kasih tahu bahan yang tersedia, saya coba bantu sarankan menu yang bisa dibuat!"
+      ]
+    },
+    {
+      "tag": "perjalanan",
+      "pola": [
+        "rekomendasi wisata",
+        "tempat wisata indonesia",
+        "mau liburan ke mana",
+        "wisata murah",
+        "destinasi wisata alam",
+        "pantai bagus di indonesia",
+        "wisata di bali",
+        "wisata di jogja",
+        "wisata di jakarta",
+        "tips traveling",
+        "packing yang efisien",
+        "budget traveling"
+      ],
+      "jawaban": [
+        "Indonesia kaya destinasi wisata! Raja Ampat untuk bawah laut, Bali untuk budaya dan pantai, Lombok untuk Rinjani, dan Labuan Bajo untuk Komodo.",
+        "Tips traveling hemat: pesan tiket jauh hari, gunakan transportasi umum, menginap di homestay lokal, dan beli makanan di warung lokal bukan restoran hotel.",
+        "Wisata Yogyakarta wajib: Candi Borobudur dan Prambanan, Keraton Yogyakarta, Jalan Malioboro, dan jangan lupa mencicipi gudeg!",
+        "Packing efisien: buat daftar bawaan 3 hari sebelum berangkat, pilih pakaian yang serbaguna, dan selalu bawa obat-obatan dasar."
+      ]
+    },
+    {
+      "tag": "olahraga_info",
+      "pola": [
+        "olahraga apa yang bagus",
+        "manfaat lari",
+        "yoga itu apa",
+        "olahraga untuk pemula",
+        "gym atau olahraga di rumah",
+        "cara memulai olahraga",
+        "berapa kali olahraga dalam seminggu",
+        "olahraga untuk menurunkan berat badan",
+        "olahraga saat hujan"
+      ],
+      "jawaban": [
+        "Olahraga terbaik adalah yang bisa kamu lakukan konsisten. Mulai dari hal sederhana: jalan 30 menit sehari sudah sangat bermanfaat!",
+        "Yoga cocok untuk fleksibilitas, ketenangan pikiran, dan kekuatan inti tubuh. Pemula bisa mulai dengan yoga untuk pemula di YouTube.",
+        "Idealnya, olahraga 150 menit per minggu dengan intensitas sedang — setara dengan 30 menit selama 5 hari.",
+        "Tidak bisa ke gym? Olahraga di rumah sangat efektif: push-up, squat, plank, dan jumping jack tidak butuh alat apapun!"
+      ]
+    },
+    {
+      "tag": "kuis_mulai",
+      "pola": [
+        "mulai kuis",
+        "mulai tebak-tebakan",
+        "ayo kuis",
+        "start kuis",
+        "kuis pengetahuan umum",
+        "kuis sains",
+        "kuis sejarah",
+        "mau main kuis",
+        "tantang aku",
+        "uji pengetahuanku"
+      ],
+      "jawaban": [
+        "Oke, kuis dimulai! Pertanyaan 1: Siapa presiden pertama Indonesia? (A) Soekarno (B) Soeharto (C) Habibie",
+        "Siap! Pertanyaan 1: Berapa planet dalam tata surya kita? (A) 7 (B) 8 (C) 9 — Jawab dengan hurufnya ya!",
+        "Game on! Pertanyaan 1: Apa ibu kota Australia? (A) Sydney (B) Melbourne (C) Canberra — Kamu tahu jawabannya?"
+      ]
+    },
+    {
+      "tag": "bahasa_asing",
+      "pola": [
+        "apa arti",
+        "translate",
+        "artinya apa",
+        "dalam bahasa inggris",
+        "dalam bahasa indonesia",
+        "dalam bahasa jepang",
+        "dalam bahasa arab",
+        "cara mengucapkan",
+        "bahasa prancis",
+        "terjemahkan",
+        "bagaimana cara bilang",
+        "how do you say"
+      ],
+      "jawaban": [
+        "Saya bisa bantu dengan terjemahan dasar! Sebutkan kata atau kalimat yang ingin kamu terjemahkan dan ke bahasa apa.",
+        "Untuk terjemahan yang akurat dan lengkap, Google Translate atau DeepL bisa sangat membantu. Tapi saya tetap siap bantu untuk yang mendasar!",
+        "Sebutkan kata atau frasenya, dan juga bahasa sumber serta bahasa tujuannya ya. Saya akan coba bantu!"
+      ]
+    },
+    {
+      "tag": "hobi",
+      "pola": [
+        "hobi seru apa",
+        "cara memulai hobi baru",
+        "hobi yang menghasilkan uang",
+        "hobi untuk introvert",
+        "hobi kreatif",
+        "rekomendasi hobi",
+        "cara tidak bosan di rumah",
+        "aktivitas seru di rumah",
+        "kegiatan produktif di waktu luang"
+      ],
+      "jawaban": [
+        "Hobi kreatif yang bisa dicoba: melukis, menulis jurnal, fotografi, merajut, atau memasak — semua bisa dimulai tanpa modal besar!",
+        "Hobi yang berpotensi menghasilkan: freelance desain grafis, jualan kerajinan tangan, menulis blog, atau menjadi content creator.",
+        "Untuk introvert, hobi seperti membaca, berkebun, bermain alat musik, atau coding sangat menyenangkan tanpa perlu banyak interaksi sosial.",
+        "Coba hal yang selalu ingin kamu lakukan tapi belum sempat. Mulai dari yang paling sederhana dan nikmati prosesnya!"
+      ]
+    },
+    {
+      "tag": "pengembangan_diri",
+      "pola": [
+        "cara percaya diri",
+        "cara mengatasi rasa malu",
+        "cara public speaking",
+        "cara meningkatkan kemampuan komunikasi",
+        "cara jadi pemimpin yang baik",
+        "cara berpikir positif",
+        "cara mengatasi pikiran negatif",
+        "cara menjadi versi terbaik diri sendiri",
+        "self improvement",
+        "cara melatih disiplin diri"
+      ],
+      "jawaban": [
+        "Kepercayaan diri dibangun dari aksi, bukan dari rasa percaya diri itu sendiri. Mulai berbuat, lalu rasa percaya diri akan mengikuti.",
+        "Public speaking: semakin sering latihan, semakin baik. Mulai dari berbicara di depan cermin, lalu ke kelompok kecil, baru ke audiens besar.",
+        "Untuk mengatasi pikiran negatif, coba teknik reframing: alih-alih 'saya tidak bisa', ubah menjadi 'saya sedang belajar untuk bisa'.",
+        "Disiplin dibangun dari kebiasaan kecil yang konsisten. Mulai dari satu hal, lakukan selama 21 hari, dan saksikan transformasinya."
+      ]
+    },
+    {
+      "tag": "pertanyaan_filosofis",
+      "pola": [
+        "apa tujuan hidup",
+        "kenapa kita ada di sini",
+        "apa itu kebahagiaan",
+        "apakah hidup adil",
+        "apa itu kesuksesan",
+        "apa itu kebebasan",
+        "apakah kebaikan selalu terbalas",
+        "apakah takdir itu nyata",
+        "apa artinya menjadi manusia",
+        "apakah ai bisa berpikir"
+      ],
+      "jawaban": [
+        "Tujuan hidup adalah pertanyaan yang telah dijawab berbeda oleh setiap filsuf sepanjang sejarah. Yang paling penting adalah menemukan jawabanmu sendiri.",
+        "Kebahagiaan, menurut banyak penelitian psikologi, lebih berkaitan dengan hubungan manusiawi, rasa bermakna, dan pertumbuhan pribadi daripada materi.",
+        "Apakah AI bisa berpikir? Saya memproses dan merespons, tapi apakah itu 'berpikir' — itu pertanyaan filosofis yang masih diperdebatkan oleh para ahli.",
+        "Kesuksesan tidak memiliki definisi universal. Bagi sebagian orang itu karier, bagi lain keluarga, kesehatan, atau kontribusi pada masyarakat."
+      ]
+    },
+    {
+      "tag": "saran_karier",
+      "pola": [
+        "mau jadi apa",
+        "karier yang bagus",
+        "profesi masa depan",
+        "pekerjaan yang tidak akan tergantikan ai",
+        "jurusan kuliah prospektif",
+        "cara membangun karier",
+        "networking itu penting",
+        "cv yang bagus",
+        "cara sukses dalam karier",
+        "skill yang dibutuhkan di masa depan"
+      ],
+      "jawaban": [
+        "Pekerjaan yang sulit digantikan AI adalah yang butuh kreativitas tinggi, empati manusiawi, dan keterampilan interpersonal.",
+        "Skill penting di masa depan: berpikir kritis, kreativitas, adaptabilitas, literasi digital, dan kemampuan kolaborasi.",
+        "CV yang bagus: singkat (1-2 halaman), highlight pencapaian konkret (bukan sekadar deskripsi tugas), dan disesuaikan dengan setiap lowongan.",
+        "Networking tidak harus canggung — mulai dari berinteraksi genuinely di LinkedIn, menghadiri webinar, atau bergabung komunitas yang relevan dengan minatmu."
+      ]
+    },
+    {
+      "tag": "media_sosial",
+      "pola": [
+        "tips instagram",
+        "cara dapat followers",
+        "konten yang viral",
+        "cara jadi content creator",
+        "algoritma instagram",
+        "tiktok tips",
+        "cara monetisasi youtube",
+        "cara membuat konten menarik",
+        "tools edit video",
+        "tools desain grafis"
+      ],
+      "jawaban": [
+        "Kunci konten yang bagus: konsisten posting, nilai yang diberikan kepada audiens, dan kualitas visual yang baik. Algoritma menyukai engagement!",
+        "Untuk pemula content creator: pilih satu niche yang kamu kuasai dan sukai, konsisten 3x seminggu, dan engage dengan komunitas.",
+        "Tools desain grafis yang mudah dan gratis: Canva untuk pemula sangat direkomendasikan. Untuk yang lebih advance, bisa coba Adobe Express.",
+        "Cara edit video yang mudah: CapCut untuk mobile, DaVinci Resolve (gratis) untuk desktop. Mulai dari yang sederhana dulu!"
+      ]
+    },
+    {
+      "tag": "hubungan_sosial",
+      "pola": [
+        "cara berteman",
+        "cara mendekati orang baru",
+        "cara mengatasi konflik",
+        "cara menjadi pendengar yang baik",
+        "cara menolak dengan sopan",
+        "cara menyampaikan pendapat",
+        "toxic relationship",
+        "cara keluar dari hubungan toxic",
+        "pertemanan yang sehat",
+        "cara menjaga persahabatan"
+      ],
+      "jawaban": [
+        "Menjadi pendengar yang baik: berikan perhatian penuh, tidak menyela, dan tunjukkan empati sebelum memberikan solusi.",
+        "Cara menolak dengan sopan: jujur tapi tetap baik. 'Terima kasih untuk ajakannya, tapi saya tidak bisa saat ini' sudah cukup tanpa perlu alasan panjang.",
+        "Tanda hubungan toxic: membuatmu merasa kecil, tidak dihargai, selalu merasa bersalah tanpa alasan jelas. Kamu berhak keluar dari situasi itu.",
+        "Menjaga persahabatan di tengah kesibukan: kirim pesan pendek secara rutin, ingat momen penting mereka, dan hadir saat mereka butuh."
+      ]
+    },
+    {
+      "tag": "kreativitas",
+      "pola": [
+        "cara meningkatkan kreativitas",
+        "cara mengatasi writer's block",
+        "ide konten",
+        "inspirasi menulis",
+        "cara brainstorming",
+        "cara berpikir kreatif",
+        "cara menghasilkan ide baru",
+        "kreativitas itu bisa dilatih"
+      ],
+      "jawaban": [
+        "Kreativitas bisa dilatih! Salah satu cara terbaik: ekspos dirimu pada hal-hal baru — buku berbeda genre, tempat baru, percakapan dengan orang dari bidang berbeda.",
+        "Untuk mengatasi writer's block: jangan tunggu inspirasi, mulai tulis apapun selama 10 menit tanpa menghapus. Seringkali dari situlah ide bagus muncul.",
+        "Teknik brainstorming efektif: mind mapping — tuliskan topik di tengah, lalu cabangkan ide-ide yang terhubung tanpa menghakimi dulu.",
+        "Setiap orang kreatif, hanya dengan cara yang berbeda. Temukan cara ekspresimu sendiri — tidak harus seni visual atau musik!"
+      ]
+    },
+    {
+      "tag": "indonesia",
+      "pola": [
+        "tentang indonesia",
+        "sejarah indonesia",
+        "ibu kota indonesia",
+        "presiden indonesia",
+        "pulau terbesar di indonesia",
+        "suku di indonesia",
+        "bahasa daerah indonesia",
+        "kuliner khas indonesia",
+        "pahlawan nasional indonesia",
+        "hari kemerdekaan indonesia"
+      ],
+      "jawaban": [
+        "Indonesia adalah negara kepulauan terbesar di dunia dengan lebih dari 17.000 pulau dan lebih dari 300 suku bangsa yang berbeda.",
+        "Indonesia merdeka pada 17 Agustus 1945, diproklamasikan oleh Soekarno dan Mohammad Hatta. Hari ini dirayakan setiap tahun sebagai Hari Kemerdekaan.",
+        "Indonesia memiliki lebih dari 700 bahasa daerah! Bahasa Indonesia digunakan sebagai bahasa persatuan yang menyatukan keberagaman tersebut.",
+        "Kuliner khas Indonesia yang terkenal secara internasional antara lain: rendang (Padang), nasi goreng, satay, gado-gado, dan tempe."
+      ]
+    },
+    {
+      "tag": "pekerjaan_rumah",
+      "pola": [
+        "cara membersihkan rumah",
+        "tips merapikan kamar",
+        "cara mencuci pakaian",
+        "cara menghilangkan noda",
+        "tips dekorasi rumah",
+        "rumah terasa pengap",
+        "cara menjaga kebersihan rumah",
+        "tips dapur bersih",
+        "cara mengatur lemari"
+      ],
+      "jawaban": [
+        "Tips merapikan kamar efektif: terapkan metode KonMari — pegang setiap barang dan tanya 'apakah ini membuatku bahagia?'. Kalau tidak, singkirkan!",
+        "Cara mencuci noda membandel: rendam dalam air dingin segera setelah kena noda. Jangan langsung air panas karena bisa membuat noda menempel permanen.",
+        "Rutinitas kebersihan rumah yang mudah: bersihkan 15 menit setiap hari daripada besar-besaran seminggu sekali. Lebih mudah dan rumah selalu rapi!",
+        "Untuk sirkulasi udara yang baik: buka jendela di pagi hari selama minimal 30 menit, dan letakkan tanaman hias dalam ruangan."
+      ]
+    },
+    {
+      "tag": "hewan_peliharaan",
+      "pola": [
+        "cara merawat kucing",
+        "cara merawat anjing",
+        "tips pelihara hewan",
+        "kucing sakit gimana",
+        "makanan anjing yang bagus",
+        "hewan peliharaan yang mudah dirawat",
+        "cara merawat ikan hias",
+        "peliharaan untuk apartemen"
+      ],
+      "jawaban": [
+        "Merawat kucing: pastikan punya makanan bergizi, air bersih selalu tersedia, kotak pasir yang rutin dibersihkan, dan vaksin tahunan.",
+        "Hewan peliharaan yang mudah dirawat untuk pemula: ikan mas, hamster, atau kucing. Mereka relatif mandiri dan tidak butuh perawatan terlalu kompleks.",
+        "Kalau kucingmu terlihat lesu, tidak mau makan, atau ada perubahan perilaku signifikan, segera konsultasikan ke dokter hewan ya.",
+        "Untuk apartemen, ikan hias atau kucing dalam ruangan adalah pilihan tepat karena tidak butuh ruang outdoor."
+      ]
+    },
+    {
+      "tag": "tanaman",
+      "pola": [
+        "cara merawat tanaman",
+        "tanaman hias yang mudah",
+        "kenapa tanaman layu",
+        "cara menyiram tanaman",
+        "tanaman dalam ruangan",
+        "berkebun di rumah",
+        "tanaman obat di rumah",
+        "urban farming"
+      ],
+      "jawaban": [
+        "Tanaman hias yang mudah dirawat untuk pemula: pothos, lidah mertua (sansevieria), dan kaktus. Tahan banting dan tidak butuh banyak air!",
+        "Kenapa tanaman layu? Bisa karena kekurangan air, kelebihan air (akar busuk), kurang cahaya, atau pot terlalu kecil. Periksa satu per satu!",
+        "Tanaman obat yang mudah ditanam di rumah: jahe, kunyit, lidah buaya, sirih, dan cabai rawit — berguna dan cantik sebagai tanaman hias sekaligus.",
+        "Urban farming di lahan terbatas bisa dilakukan dengan sistem pot bertumpuk atau vertikal garden menggunakan botol bekas atau paralon."
+      ]
+    },
+    {
+      "tag": "ucapan_selamat",
+      "pola": [
+        "selamat ulang tahun",
+        "happy birthday",
+        "selamat tahun baru",
+        "selamat hari raya",
+        "selamat idul fitri",
+        "selamat natal",
+        "selamat lulus",
+        "selamat wisuda",
+        "selamat menikah",
+        "selamat dapat kerja",
+        "selamat promosi"
+      ],
+      "jawaban": [
+        "Wah, ada momen spesial! Selamat merayakan! Semoga semua harapan dan doa terbaik terwujud.",
+        "Selamat! Momen ini layak dirayakan. Semoga membawa kebahagiaan dan berkah yang berlimpah.",
+        "Luar biasa! Selamat atas pencapaiannya. Ini adalah hasil dari kerja keras dan dedikasi yang tidak sia-sia.",
+        "Selamat Hari Raya! Semoga penuh kebahagiaan, kesehatan, dan keberkahan untuk kamu dan seluruh keluarga."
+      ]
+    },
+    {
+      "tag": "pertanyaan_balik",
+      "pola": [
+        "menurut kamu",
+        "pendapat kamu",
+        "kamu suka apa",
+        "kamu lebih suka mana",
+        "kalau kamu gimana",
+        "pilihan kamu",
+        "favoritmu apa",
+        "kamu berpikir apa tentang ini"
+      ],
+      "jawaban": [
+        "Menarik kamu tanya balik! Sebagai AI, saya tidak punya preferensi pribadi, tapi saya senang mendiskusikan topik ini bersamamu. Menurutmu bagaimana?",
+        "Pertanyaan yang bagus! Saya tidak punya opini pribadi, tapi saya bisa memberikan berbagai sudut pandang yang berbeda tentang topik ini.",
+        "Saya tidak bisa berpendapat secara subjektif, tapi saya bisa membantu kamu mengeksplorasi berbagai perspektif. Apa yang membuat kamu penasaran dengan ini?"
+      ]
+    },
+    {
+      "tag": "matematika",
+      "pola": [
+        "berapa",
+        "hitung",
+        "jumlah",
+        "hasil",
+        "kali",
+        "bagi",
+        "tambah",
+        "kurang",
+        "persentase",
+        "akar kuadrat",
+        "pangkat",
+        "rumus",
+        "soal matematika"
+      ],
+      "jawaban": [
+        "Boleh, saya siap membantu dengan perhitungan! Tuliskan soalnya secara lengkap ya.",
+        "Untuk soal matematika, tuliskan angka dan operasinya dengan jelas, saya akan bantu hitungkan.",
+        "Siap! Saya bisa membantu dengan operasi dasar hingga rumus yang lebih kompleks. Sebutkan soalnya!"
+      ]
+    },
+    {
+      "tag": "bahasa_indonesia",
+      "pola": [
+        "apa itu sinonim",
+        "antonim dari",
+        "ejaan yang benar",
+        "arti kata",
+        "kbbi",
+        "tanda baca yang benar",
+        "cara penulisan yang benar",
+        "apa itu majas",
+        "perbedaan di- dan di spasi",
+        "penulisan nama yang benar"
+      ],
+      "jawaban": [
+        "Dalam Bahasa Indonesia, penulisan 'di' sebagai kata depan (tempat) dipisah: di rumah, di sekolah. Tapi 'di-' sebagai awalan disambung: dipukul, dimakan.",
+        "Majas adalah gaya bahasa yang digunakan untuk memperindah tulisan atau ucapan. Contoh: metafora, simile, hiperbola, personifikasi.",
+        "Untuk cek ejaan dan arti kata yang tepat, kamu bisa mengakses KBBI daring di kbbi.kemdikbud.go.id — sumbernya resmi!",
+        "Sinonim adalah kata yang memiliki makna serupa. Contoh: 'bahagia' dan 'gembira'. Antonim adalah kebalikannya: 'panas' vs 'dingin'."
+      ]
+    },
+    {
+      "tag": "keamanan_digital",
+      "pola": [
+        "cara aman di internet",
+        "phishing itu apa",
+        "cara buat password kuat",
+        "akun di hack gimana",
+        "cara menjaga privasi online",
+        "vpn itu apa",
+        "keamanan data pribadi",
+        "cara cek link palsu",
+        "scam online",
+        "penipuan online"
+      ],
+      "jawaban": [
+        "Password yang kuat: minimal 12 karakter, kombinasi huruf besar-kecil, angka, dan simbol. Gunakan password manager agar tidak lupa!",
+        "Tanda phishing: URL aneh atau salah eja, meminta data pribadi lewat email/chat, urgensi palsu ('akun akan diblokir dalam 24 jam!'). Selalu verifikasi langsung ke sumber resmi.",
+        "Jika akun kena hack: segera ganti password, aktifkan 2FA (two-factor authentication), dan cek perangkat mana yang terotorisasi.",
+        "VPN (Virtual Private Network) mengenkripsi koneksi internetmu dan menyembunyikan alamat IP-mu. Berguna untuk privasi, terutama saat menggunakan WiFi publik."
+      ]
+    },
+    {
+      "tag": "ngobrol_santai",
+      "pola": [
+        "iseng aja nih",
+        "lagi pengen ngobrol",
+        "ga ada temen ngobrol",
+        "pengen cerita",
+        "kamu ada waktu ga",
+        "boleh curhat ga",
+        "mau temenin aku ga",
+        "aku sendirian nih",
+        "pengen temenin aku",
+        "kita ngobrol santai yuk",
+        "mau ngobrol ga",
+        "aku mau cerita sesuatu",
+        "boleh cerita ga",
+        "bisa jadi teman ngobrol ga",
+        "aku bosen sendiri"
+      ],
+      "jawaban": [
+        "Tentu! Saya di sini. Mau cerita apa? Saya dengerin.",
+        "Boleh banget! Saya selalu ada waktu buat kamu. Cerita aja, saya siap dengerin.",
+        "Dengan senang hati! Kita ngobrol santai aja ya. Mau mulai dari mana?",
+        "Saya di sini kok! Kamu tidak sendirian. Mau cerita soal apa hari ini?"
+      ]
+    },
+    {
+      "tag": "nanya_pendapat",
+      "pola": [
+        "menurutmu gimana",
+        "pendapatmu tentang ini",
+        "kamu setuju ga",
+        "apa yang kamu pikir",
+        "ide ini bagus ga",
+        "masuk akal ga",
+        "wajar ga si",
+        "ini aneh ga",
+        "kamu kira gimana",
+        "bagaimana menurut kamu",
+        "menurut kamu aku salah ga",
+        "kamu pikir aku lebay ga",
+        "ini logis ga"
+      ],
+      "jawaban": [
+        "Hmm, menarik nih. Boleh cerita lebih detail dulu? Biar saya bisa kasih pandangan yang lebih tepat.",
+        "Saya dengerin. Dari yang kamu ceritain, kelihatannya ada dua sisi yang perlu dipertimbangkan nih.",
+        "Perspektif kamu itu valid lho! Tapi mungkin perlu dilihat juga dari sudut pandang lain. Mau kita bahas bareng?",
+        "Tidak ada yang aneh — tiap orang punya cara pandang yang berbeda. Yang penting kamu nyaman sama keputusanmu sendiri."
+      ]
+    },
+    {
+      "tag": "cerita_hari",
+      "pola": [
+        "hari ini capek banget",
+        "tadi ada yang lucu",
+        "hari ini ga berjalan baik",
+        "hari ini aku seneng banget",
+        "tadi ada kejadian aneh",
+        "hari ini produktif banget",
+        "tadi berantem sama temen",
+        "hari ini aku malu banget",
+        "sesuatu yang terjadi hari ini",
+        "cerita dong tentang harimu",
+        "hari ini banyak banget yang terjadi",
+        "hari ini boring banget",
+        "hari ini ga sesuai ekspektasi"
+      ],
+      "jawaban": [
+        "Wah, cerita dong! Ada apa hari ini? Saya penasaran.",
+        "Aduh, kedengarannya hari yang berat. Mau cerita dari mana dulu?",
+        "Seru juga kayaknya! Apa yang terjadi? Saya mau dengerin.",
+        "Hm, kayaknya ada yang mau diceritain nih. Yuk, saya siap dengerin semuanya."
+      ]
+    },
+    {
+      "tag": "overthinking_ringan",
+      "pola": [
+        "aku kepikiran sesuatu",
+        "ga bisa berhenti mikirin ini",
+        "aku mikir terus dari tadi",
+        "ini ada di kepalaku terus",
+        "ga tau kenapa aku kepikiran",
+        "rasanya mengganjal di pikiran",
+        "sesuatu yang bikin aku bingung",
+        "aku dilema nih",
+        "lagi banyak pikiran",
+        "aku bingung harus mikir apa",
+        "susah fokus karena kepikiran",
+        "terus kepikiran hal yang sama"
+      ],
+      "jawaban": [
+        "Coba ceritain dulu. Kadang dengan ngomongkan apa yang ada di kepala, semuanya jadi lebih jelas.",
+        "Pikiran yang berputar terus itu memang melelahkan ya. Mau kita uraikan satu per satu?",
+        "Wajar banget kok kepikiran. Yuk coba diceritain — siapa tahu saya bisa bantu lihat dari sudut yang berbeda.",
+        "Tarik napas dulu. Sekarang cerita pelan-pelan, kita pikirin bareng ya."
+      ]
+    },
+    {
+      "tag": "dilema_pilihan",
+      "pola": [
+        "bingung pilih yang mana",
+        "aku harus milih antara dua hal",
+        "susah mutusin",
+        "aku ga tau harus pilih apa",
+        "dua-duanya ada plus minusnya",
+        "bantu aku milih dong",
+        "mana yang lebih baik menurutmu",
+        "aku bimbang nih",
+        "takut salah pilih",
+        "galau pilih ini atau itu",
+        "sudah lama bimbang",
+        "ini susah banget diputuskan"
+      ],
+      "jawaban": [
+        "Dilema ya! Coba ceritain kedua pilihannya. Kita timbang bareng pro dan kontranya.",
+        "Keputusan yang susah memang bikin stres. Tapi kamu yang paling tau situasinya — saya bantu pikirkan ya.",
+        "Coba tanya ke diri sendiri: kalau 5 tahun lagi, pilihan mana yang kamu lebih tidak sesali? Itu sering jadi clue yang bagus.",
+        "Boleh saya tanya dulu — kamu condongnya ke mana? Kadang kita sudah punya jawabannya tapi perlu validasi aja."
+      ]
+    },
+    {
+      "tag": "nostalgia",
+      "pola": [
+        "kangen masa kecil",
+        "jaman dulu lebih enak",
+        "inget waktu dulu",
+        "kangen sama kenangan lama",
+        "nostalgia nih",
+        "waktu kecil dulu",
+        "kangen sama orang yang sudah pergi",
+        "waktu berlalu cepat banget",
+        "dulu aku pernah",
+        "aku jadi inget masa lalu",
+        "kenangan itu ga bisa dilupain",
+        "dulu sempat bahagia banget"
+      ],
+      "jawaban": [
+        "Nostalgia itu perasaan yang unik ya — menyenangkan tapi sekaligus bikin sedikit sedih. Kenangan apa yang lagi kamu ingat?",
+        "Masa lalu memang punya tempat tersendiri di hati. Cerita dong, saya mau dengerin.",
+        "Kadang mengenang itu perlu juga kok — asal jangan terlalu lama berdiri di sana ya. Ada kenangan khusus yang ingin diceritain?",
+        "Wah, jadi penasaran. Kenangan apa yang paling sering kamu rindukan?"
+      ]
+    },
+    {
+      "tag": "iseng_tanya",
+      "pola": [
+        "boleh tanya sesuatu ga",
+        "mau nanya hal random",
+        "ini pertanyaan aneh ya",
+        "kamu pernah kepikiran ga",
+        "ini mungkin ga penting tapi",
+        "pertanyaan iseng nih",
+        "boleh nanya yang ga nyambung ga",
+        "aku mau tanya yang agak absurd",
+        "ini serius tapi juga ga serius",
+        "tanya random boleh ga"
+      ],
+      "jawaban": [
+        "Boleh banget! Saya suka pertanyaan random. Apa nih?",
+        "Lho, justru pertanyaan yang 'aneh' sering paling seru dibahasnya. Tanya aja!",
+        "Tentu! Tidak ada pertanyaan yang terlalu aneh buat saya. Gas!",
+        "Haha, malah jadi penasaran nih. Langsung aja tanyanya!"
+      ]
+    },
+    {
+      "tag": "cerita_mimpi",
+      "pola": [
+        "tadi malem aku mimpi",
+        "mimpi aneh semalam",
+        "aku mimpi yang lucu",
+        "mimpi aku seram banget",
+        "semalam mimpi yang berkesan",
+        "aku sering mimpi yang sama",
+        "mimpi aku ga masuk akal",
+        "habis mimpi jadi kepikiran",
+        "mimpi itu artinya apa ya",
+        "tadi aku bermimpi"
+      ],
+      "jawaban": [
+        "Wah, mimpi apa? Ceritain dong — saya selalu penasaran sama cerita mimpi orang.",
+        "Mimpi memang sering bikin penasaran ya. Mau cerita isinya?",
+        "Ooh, mimpi seram itu sering ninggalin perasaan aneh ya abis bangun. Cerita apa yang terjadi?",
+        "Menarik nih! Kadang mimpi bisa mencerminkan apa yang ada di pikiran kita. Ceritain dulu yuk!"
+      ]
+    },
+    {
+      "tag": "ngeluh_cuaca",
+      "pola": [
+        "panas banget hari ini",
+        "ujan mulu ga berhenti",
+        "cuaca ga karuan",
+        "gerah banget",
+        "dingin banget",
+        "males karena ujan",
+        "cuaca bikin mager",
+        "anginnya kenceng banget",
+        "hawanya pengap banget",
+        "cuaca bikin bad mood"
+      ],
+      "jawaban": [
+        "Iya, cuaca ekstrem itu emang nyebelin ya. Semangat tetap beraktivitas meski begitu!",
+        "Hujan terus emang bikin males gerak. Cocok banget buat rebahan sambil ngobrol sama saya hehe.",
+        "Panas kayak gini emang bikin mood turun. Jangan lupa banyak minum air putih ya biar ga dehidrasi!",
+        "Cuaca memang seringkali ga bisa ditebak. Yang penting kita tetap jaga kondisi tubuh ya!"
+      ]
+    },
+    {
+      "tag": "cerita_teman",
+      "pola": [
+        "temenku nyebelin banget",
+        "ada drama sama temen",
+        "temenku lagi bermasalah",
+        "temenku butuh bantuan",
+        "temen aku tiba-tiba menjauh",
+        "aku berantem sama sahabat",
+        "temenku ngomong sesuatu yang nyakitin",
+        "temenku ga jujur sama aku",
+        "temenku lagi kesusahan",
+        "aku khawatir sama temenku",
+        "temenku berubah banget",
+        "aku kangen sama temenku"
+      ],
+      "jawaban": [
+        "Aduh, pertemanan yang bermasalah itu memang melelahkan. Cerita lebih detail yuk, ada apa?",
+        "Kamu khawatir sama temenmu — itu tanda kamu teman yang baik lho. Ada yang bisa saya bantu pikirkan?",
+        "Berantem sama sahabat tuh sakitnya beda ya. Gimana ceritanya?",
+        "Hubungan pertemanan memang butuh usaha dari dua pihak. Mau cerita dari awalnya gimana?"
+      ]
+    },
+    {
+      "tag": "refleksi_diri",
+      "pola": [
+        "aku lagi introspeksi",
+        "aku ngerasa aku harus berubah",
+        "aku mau jadi orang yang lebih baik",
+        "aku capek sama kebiasaan burukku",
+        "aku ngerasa stagnan",
+        "aku pengen berkembang",
+        "aku terlalu keras sama diri sendiri",
+        "aku ngerasa belum cukup baik",
+        "aku mau mulai lagi dari awal",
+        "aku baru sadar sesuatu tentang diri aku",
+        "aku mau evaluasi diri"
+      ],
+      "jawaban": [
+        "Mau introspeksi itu langkah yang keren banget. Banyak orang menghindarinya karena takut sama apa yang mereka temukan.",
+        "Keinginan untuk berkembang itu sudah jadi modal besar. Kamu sudah selangkah lebih maju dari kebanyakan orang.",
+        "Evaluasi diri itu penting, tapi ingat juga untuk adil ke diri sendiri ya. Kamu sudah melakukan yang terbaik dengan apa yang kamu punya saat itu.",
+        "Bagus banget kamu menyadari itu! Perubahan yang tulus selalu dimulai dari kesadaran seperti ini. Mau mulai dari mana?"
+      ]
+    },
+    {
+      "tag": "galau_masa_depan",
+      "pola": [
+        "aku takut soal masa depan",
+        "ga tau hidup aku mau ke mana",
+        "aku cemas soal masa depan",
+        "masa depan terasa tidak pasti",
+        "aku belum tau tujuan hidupku",
+        "aku takut ga berhasil",
+        "aku khawatir soal 5 tahun ke depan",
+        "aku tidak punya rencana hidup",
+        "rasanya hidup aku stagnan",
+        "aku ngerasa tertinggal dari orang lain",
+        "aku belum tau passion aku apa",
+        "aku bingung soal arah hidup"
+      ],
+      "jawaban": [
+        "Ketidakpastian soal masa depan itu normal banget — hampir semua orang merasakannya, meski tidak semua mengakuinya.",
+        "Tidak tau arah hidup bukan berarti kamu gagal. Itu artinya kamu sedang dalam proses menemukan dirimu.",
+        "Kamu tidak harus punya semua jawaban sekarang. Langkah kecil yang konsisten itu jauh lebih berarti daripada rencana besar yang tidak pernah dimulai.",
+        "Jangan bandingkan 'chapter kamu' dengan 'chapter orang lain' — kita semua berjalan dengan kecepatan dan jalannya masing-masing."
+      ]
+    },
+    {
+      "tag": "humor_sehari_hari",
+      "pola": [
+        "ini lucu banget sih",
+        "gak nyangka bisa kejadian",
+        "hari ini ada yang kocak",
+        "aku hampir mati ketawa tadi",
+        "ini awkward banget",
+        "malu tapi lucu",
+        "ga sengaja bikin orang ketawa",
+        "situasi tadi konyol banget",
+        "aku jadi bahan ketawaan",
+        "ini ironis banget",
+        "ngakak ga sih kalau",
+        "absurd banget hari ini"
+      ],
+      "jawaban": [
+        "Hahaha, cerita dong! Saya penasaran nih.",
+        "Wah, kedengarannya seru! Apa yang terjadi?",
+        "Momen kocak kayak gitu emang jadi kenangan tersendiri ya. Ceritain!",
+        "Moment awkward yang lucu itu the best sih. Gimana ceritanya?"
+      ]
+    },
+    {
+      "tag": "nanya_saran_santai",
+      "pola": [
+        "enaknya ngapain hari ini",
+        "rekomendasi aktivitas dong",
+        "baiknya aku ngapain ya",
+        "hari ini mau ngapain ya",
+        "ada ide kegiatan ga",
+        "kalau kamu jadi aku mau ngapain",
+        "enaknya gimana menurut kamu",
+        "hari ini mau explore apa ya",
+        "kamu punya ide seru ga",
+        "pengen lakuin sesuatu tapi ga tau apa"
+      ],
+      "jawaban": [
+        "Tergantung mood kamu nih! Lagi pengen yang santai atau yang produktif?",
+        "Hmm, kalau waktu luang saya rekomendasiin coba hal yang sudah lama mau kamu lakuin tapi selalu ditunda. Apa itu?",
+        "Gimana kalau hari ini dicoba satu hal kecil yang baru? Bisa sesederhana nyoba resep baru atau jalan ke tempat belum pernah dikunjungi.",
+        "Saya perlu tau dulu kamu tipe orang yang lebih suka di dalam atau di luar ruangan — baru bisa kasih saran yang pas!"
+      ]
+    },
+    {
+      "tag": "cerita_keluarga",
+      "pola": [
+        "keluargaku lagi ribut",
+        "orang tuaku ga ngerti aku",
+        "aku kangen keluarga",
+        "adikku nyebelin",
+        "kakakku selalu ikut campur",
+        "orang tuaku terlalu protektif",
+        "aku lagi jauh dari keluarga",
+        "aku kangen rumah",
+        "keluargaku lagi ada masalah",
+        "susah komunikasi sama orang tua",
+        "aku merasa tidak dimengerti di rumah",
+        "aku kangen masakan rumah"
+      ],
+      "jawaban": [
+        "Dinamika keluarga itu memang kompleks ya. Mau cerita lebih? Saya dengerin.",
+        "Kangen rumah itu perasaan yang dalam banget. Kapan terakhir ketemu keluarga?",
+        "Komunikasi lintas generasi memang sering jadi tantangan. Kamu sudah coba ngomong langsung sama mereka?",
+        "Keluarga memang bisa jadi sumber kehangatan sekaligus sumber konflik ya. Gimana kondisinya sekarang?"
+      ]
+    }
+  ]
+}
